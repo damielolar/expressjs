@@ -1,0 +1,165 @@
+/* Styling for body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Styling for nav */
+nav {
+  background-color: #ff4d4d;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+/* Styling for footer */
+footer {
+  background-color: #ff4d4d;
+  padding: 20px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Styling for links */
+a {
+  color: #ff4d4d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e60000;
+}
+
+/* Additional Valentine's Day styling */
+.container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+footer p:last-child {
+  margin-top: 10px;
+}
+
+
+/* Styling for hero section */
+.hero {
+  background-color: pink;
+  color: red;
+  padding: 20px;
+}
+
+/* Styling for about section */
+.about {
+  background-color: red;
+  color: pink;
+  padding: 20px;
+}
+
+/* Styling for projects section */
+.projects {
+  background-color: pink;
+  color: red;
+  padding: 20px;
+}
+
+/* Styling for contact section */
+.contact {
+  background-color: red;
+  color: pink;
+  padding: 20px;
+}
+
+/* Styling for links */
+.contact-link {
+  color: pink;
+  background-color: red;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+/* Additional styling for contact-info section */
+.contact-info {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.contact-info h1 {
+  color: #ff4d4d;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  color: #333;
+  font-size: 18px;
+}
+
+.contact-info ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}
+
+.contact-info li:before {
+  content: "\2022";
+  color: #ff4d4d;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+/* Styling for services section */
+.services {
+  background-color: #ffe6e6;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.services h1 {
+  color: #ff4d4d;
+  margin-bottom: 30px;
+  font-size: 36px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.services h2 {
+  color: #ff4d4d;
+  margin-bottom: 10px;
+}
+
+.services p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
